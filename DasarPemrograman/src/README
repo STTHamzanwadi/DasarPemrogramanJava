@@ -1,0 +1,25 @@
+SILABUS DASAR PEMROGRAMAN 
+(SEMESTER I)
+- Pengenalan bahasa pemrograman (umum) : definisi, fungsi, jenis-jenis
+- Java sebagai bahasa pemrograman : komponen teknologi, jvm, jre, jdk, java SE, java EE
+	tugas : instalasi jdk (min. java 7) dan eclipse IDE (min. kepler)
+- Program Java pertama (menulis output ke console), disertai pengenalan bagian-bagian eclipse IDE
+- Variabel dan tipe data
+	tugas : mengenali variabel dan tipe data dari sebuah program
+			menebak keluaran sebuah program
+- Operator Aritmatika dan Relasional
+- Operator Logika
+	tugas : membuat program yang mendemonstrasikan pemanfaatan operator aritmatika, relasional, dan logika 
+- Conditional (if, if-else, switch)
+	tugas : membuat program yang mendemonstrasikan penggunaan if, if-else, switch
+
+UTS
+
+- Looping dgn pencacah (for), while, do while
+	tugas : membuat program yang mendemonstrasikan pemanfaatan sintaks loop 
+- Method, void dan method dengan return type
+- Variabel Lokal dan Variabel Class
+	tugas : membuat program yang berisi method dengan berbagai jenis return type
+- Metode Rekursif
+
+UAS 
