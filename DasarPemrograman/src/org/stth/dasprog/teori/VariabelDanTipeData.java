@@ -14,7 +14,7 @@ public class VariabelDanTipeData {
 		String s;//deklarasi variabel bernama s dengan tipe data String (teks)
 		char c;//deklarasi variabel bernama c dengan tipe data char (karakter, satu huruf)
 		boolean b;//deklarasi variabel bernama b dengan tipe data boolean (true/false)
-		double d;//deklarasi variabel bernama d dengan tipe data double (dua angka dibelakang koma)
+		double d;//deklarasi variabel bernama d dengan tipe data double 
 		
 		//cara memberikan nilai pada variabel (assignment)
 		i = 10; //variabel i diisi dengan nilai 10
